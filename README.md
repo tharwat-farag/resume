@@ -1,9 +1,13 @@
-# 📄 Tharwat Farag – Data Engineer Resume
+# 📄 Tharwat Farag | Data Engineer Resume
 
 <p align="center">
 
 <a href="./Tharwat_Farag_Data_Engineer_Resume.pdf">
 <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C">
+<img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tharwat-farag">
@@ -22,17 +26,18 @@
 
 This repository contains the latest version of my **Data Engineer Resume**.
 
-### Highlights
+### 🚀 Highlights
 
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Data Engineer
-- ETL / ELT Pipelines
-- SQL & Python
-- Data Warehousing
-- Apache Airflow
-- Apache Spark
-- Hadoop & Hive
-- Microsoft Azure
+- 🏅 Microsoft Certified: Azure Data Fundamentals (DP-900)
+- 👨‍💻 Data Engineer
+- ⚡ ETL / ELT Pipelines
+- 🐍 Python & SQL
+- 🏗️ Data Warehousing
+- 📊 Data Modeling
+- 🔄 Apache Airflow
+- ⚡ Apache Spark
+- 🗄️ Hadoop & Hive
+- ☁️ Microsoft Azure
 
 ---
 
@@ -42,4 +47,14 @@ This repository contains the latest version of my **Data Engineer Resume**.
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🏅 Certification
+
+➡️ **[View Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)**
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+</p>
