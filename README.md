@@ -1,50 +1,70 @@
 # 📄 Tharwat Farag | Data Engineer
 
-> **Data Engineer | Microsoft Fabric | SQL | Python | ETL/ELT**
+Welcome to my Data Engineering portfolio.
 
----
+## 👨‍💻 About Me
 
-## 👨‍💻 About
+I’m a **Data Engineer** specializing in designing and building end-to-end data solutions, from data ingestion and transformation to data warehousing, orchestration, and analytics.
 
-Data Engineer with hands-on experience in building **scalable data pipelines, data warehouses, database solutions, and analytics workflows** using Python, SQL, Microsoft Fabric, Azure, and modern data engineering technologies.
-
-Also bringing **5+ years of technical leadership experience in EdTech**, working on platforms serving **130,000+ active users**.
+My experience includes working with **Python, SQL, Microsoft Fabric, Azure, Apache Airflow, SSIS, Apache Spark, Hadoop, Hive, and Power BI** to build scalable and reliable data pipelines and analytical solutions.
 
 ---
 
 ## 🚀 Core Skills
 
-* ⚡ **Data Engineering:** ETL / ELT, Data Pipelines, Data Warehousing, Data Modeling
-* ☁️ **Microsoft Fabric & Azure:** Fabric Data Factory, Lakehouse, OneLake, Data Warehouse
-* 🐍 **Programming & Databases:** Python, SQL, SQL Server, PostgreSQL, MySQL
-* 🔄 **Data Orchestration:** Apache Airflow, SSIS
-* ⚡ **Big Data:** Apache Spark, Hadoop, Hive, Apache Kafka
-* 📊 **Analytics:** Power BI, Semantic Models, Business Intelligence
-* 🐳 **Tools:** Docker, Git, GitHub
+- ⚡ **Data Engineering:** ETL / ELT, Data Pipelines, Data Warehousing, Data Modeling
+- ☁️ **Microsoft Fabric & Azure:** Fabric Data Factory, Lakehouse, OneLake, Data Warehouse
+- 🐍 **Programming & Databases:** Python, SQL, SQL Server, PostgreSQL, MySQL
+- 🔄 **Data Orchestration:** Apache Airflow, SSIS
+- ⚡ **Big Data:** Apache Spark, Hadoop, Hive, Apache Kafka
+- 📊 **Analytics:** Power BI, Semantic Models, Business Intelligence
+- 🐳 **Tools:** Docker, Git, GitHub
 
 ---
 
 ## 🏅 Microsoft Certifications
 
-| Certification                                    |                                                                                                                                            |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Fabric Data Engineer Associate (DP-700)**      | [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F) |
-| **Fabric Analytics Engineer Associate (DP-600)** | [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C) |
-| **SQL AI Developer Associate (DP-800)**          | [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C) |
-| **Azure Data Fundamentals (DP-900)**             | [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C) |
+| Certification | Credential |
+|---|---|
+| **Fabric Data Engineer Associate (DP-700)** | [Verify Credential](#) |
+| **Fabric Analytics Engineer Associate (DP-600)** | [Verify Credential](#) |
+| **SQL AI Developer Associate (DP-800)** | [Verify Credential](#) |
+| **Azure Data Fundamentals (DP-900)** | [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C) |
+
+---
+
+## 📂 Projects
+
+My GitHub portfolio includes projects covering different areas of Data Engineering:
+
+- 🏗️ **Data Warehousing & ETL**
+- 🔄 **Airflow Data Pipelines**
+- 🐍 **Python & Selenium ETL Pipelines**
+- ⚡ **Apache Spark & Big Data**
+- 🗄️ **SQL & Database Projects**
+- 🧹 **Data Cleaning & Transformation**
+- 📊 **Analytics & Business Intelligence**
+
+➡️ **[Explore My GitHub Projects](https://github.com/tharwat-farag)**
+
+<br>
 
 ---
 
 ## 📄 Resume
 
-📌 **[View / Download My Latest Resume](./Tharwat_Farag_Data_Engineer_Resume.pdf)**
+For a complete overview of my professional experience, technical skills, education, and certifications:
+
+➡️ **[View / Download My Latest Resume](./Tharwat_Farag_Data_Engineer_Resume.pdf)**
+
+<br>
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/tharwat-farag/)
-* 💻 [GitHub](https://github.com/tharwat-farag)
+- 💼 **[LinkedIn](#)**
+- 💻 **[GitHub](https://github.com/tharwat-farag)**
 
 ---
 
