@@ -1,12 +1,16 @@
 # 📄 Tharwat Farag | Data Engineer
 
-Welcome to my Data Engineering portfolio.
+**Building Reliable Data Pipelines. Turning Data into Business Value.**
+
+Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I’m a **Data Engineer** specializing in designing and building end-to-end data solutions, from data ingestion and transformation to data warehousing, orchestration, data quality, and analytics.
+I'm a **Data Engineer** focused on designing and building end-to-end data solutions, from data ingestion and transformation to data warehousing, orchestration, and data quality.
 
-My experience includes working with **Python, SQL, Microsoft Fabric, Azure, Apache Airflow, SSIS, Apache Spark, PySpark, Delta Lake, Hadoop, Hive, and Power BI** to build scalable and reliable data pipelines and analytical solutions.
+I combine hands-on experience in **Data Engineering, SQL, Database Administration, and Software Development** to build reliable, scalable, and business-oriented solutions.
+
+My technical background includes **Python, SQL, Microsoft Fabric, Azure, Apache Airflow, SSIS, Apache Spark, PySpark, Delta Lake, Hadoop, and Hive**, alongside experience in technical leadership and production troubleshooting.
 
 ---
 
@@ -17,8 +21,8 @@ My experience includes working with **Python, SQL, Microsoft Fabric, Azure, Apac
 - 🐍 **Programming & Databases:** Python, SQL, Pandas, NumPy, SQL Server, PostgreSQL, MySQL
 - 🔄 **Data Orchestration:** Apache Airflow, Astronomer, SSIS
 - ⚡ **Big Data:** Apache Spark, PySpark, Spark SQL, Hadoop, Hive, Apache Kafka
-- 📊 **Analytics:** Power BI, DAX, Semantic Models, Business Intelligence
-- 🐳 **Tools:** Docker, Git, GitHub, Jupyter Notebook, Visual Studio Code
+- 🏢 **Data Platforms:** Microsoft Fabric, Azure Data Services, Delta Lake
+- 🐳 **Tools & Development:** Docker, Git, GitHub, Jupyter Notebook, Visual Studio Code
 
 ---
 
@@ -35,7 +39,7 @@ My experience includes working with **Python, SQL, Microsoft Fabric, Azure, Apac
 
 ## 📂 Projects
 
-My GitHub portfolio includes projects covering different areas of Data Engineering:
+My GitHub repositories showcase practical work across different areas of Data Engineering:
 
 - 🏗️ **Data Warehousing & ETL**
 - 🔄 **Airflow Data Pipelines**
@@ -47,39 +51,13 @@ My GitHub portfolio includes projects covering different areas of Data Engineeri
 - 🗄️ **SQL & Database Projects**
 - 📊 **Analytics & Business Intelligence**
 
-### ⭐ Featured Project
-
-**B.Laban Retail Customer & Sales Analytics Platform**
-
-An end-to-end retail data engineering project built using **PySpark, Microsoft Fabric, Delta Lake, and SQL**, following a **Bronze → Silver → Gold** medallion architecture.
-
-The project transforms raw retail transactions into validated and business-ready analytical datasets.
-
-**Key highlights:**
-
-- 7,000 transactional records across 28 columns
-- 6,952 valid transactions retained for KPI reporting
-- 48 invalid transactions identified through data-quality rules
-- Data cleaning, validation, anomaly flagging, and standardization
-- Gold datasets for branch, product, channel, customer, and daily-sales analytics
-- Automated validation using **pytest**
-- **8/8 automated tests passed**
-
-➡️ **[Explore B.Laban Retail Analytics](https://github.com/tharwat-farag/BLaban-Retail-Analytics)**
-
-➡️ **[Explore My GitHub Projects](https://github.com/tharwat-farag)**
-
-<br>
-
 ---
 
 ## 📄 Resume
 
 For a complete overview of my professional experience, technical skills, education, and certifications:
 
-➡️ **[View / Download My Latest Resume](./Tharwat_Farag_Data_Engineer_Resume.pdf)**
-
-<br>
+➡️ **[View / Download My Latest Resume](https://github.com/tharwat-farag/resume/blob/main/Data_Engineer.pdf)**
 
 ---
 
